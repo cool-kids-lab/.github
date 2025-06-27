@@ -1,12 +1,32 @@
-## Hi there 👋
+# 👁️ Cool-Kids-Lab
 
-<!--
+Welcome to the **Cool-Kids-Lab**, a research subgroup based at the  
+**Casey Eye Institute**, Oregon Health & Science University (OHSU), Portland, OR.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🧠 What We Do
+
+We focus on advancing clinical care through:
+
+- 📡 **UltraWide-Field Optical Coherence Tomography (UWF-OCT)**
+- 🤖 **Machine Learning & AI** for medical imaging
+- 🧬 Data-driven approaches to improve **pediatric retinal disease diagnosis**
+
+---
+
+## 🔬 Current Research Focus
+
+Our primary research explores the use of UWF-OCT and AI for the early detection and diagnosis of:
+
+- **Retinopathy of Prematurity (ROP)**
+
+We aim to translate cutting-edge technology into actionable insights for improving clinical outcomes in neonatal care.
+
+---
+
+## 💬 Get in Touch
+
+Interested in collaboration or learning more?  
+Feel free to reach out via our [institutional website](https://www.ohsu.edu/casey-eye-institute) or contact the team through GitHub.
+
