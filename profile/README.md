@@ -9,7 +9,7 @@ Welcome to the **Cool-Kids-Lab**, a research subgroup based at the
 
 We focus on advancing clinical care through:
 
-- 📡 **UltraWide-Field Optical Coherence Tomography (UWF-OCT)**
+- 📡 **Ultrawide-Field Optical Coherence Tomography (UWF-OCT)**
 - 🤖 **Machine Learning & AI** for medical imaging
 - 🧬 Data-driven approaches to improve **pediatric retinal disease diagnosis**
 
